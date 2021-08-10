@@ -1,0 +1,11 @@
+C:\Users\Samuel\Projetos\DIO.Series\bin\Debug\netcoreapp2.1\DIO.Series.deps.json
+C:\Users\Samuel\Projetos\DIO.Series\bin\Debug\netcoreapp2.1\DIO.Series.runtimeconfig.json
+C:\Users\Samuel\Projetos\DIO.Series\bin\Debug\netcoreapp2.1\DIO.Series.runtimeconfig.dev.json
+C:\Users\Samuel\Projetos\DIO.Series\bin\Debug\netcoreapp2.1\DIO.Series.dll
+C:\Users\Samuel\Projetos\DIO.Series\bin\Debug\netcoreapp2.1\DIO.Series.pdb
+C:\Users\Samuel\Projetos\DIO.Series\obj\Debug\netcoreapp2.1\DIO.Series.csprojAssemblyReference.cache
+C:\Users\Samuel\Projetos\DIO.Series\obj\Debug\netcoreapp2.1\DIO.Series.csproj.CoreCompileInputs.cache
+C:\Users\Samuel\Projetos\DIO.Series\obj\Debug\netcoreapp2.1\DIO.Series.AssemblyInfoInputs.cache
+C:\Users\Samuel\Projetos\DIO.Series\obj\Debug\netcoreapp2.1\DIO.Series.AssemblyInfo.cs
+C:\Users\Samuel\Projetos\DIO.Series\obj\Debug\netcoreapp2.1\DIO.Series.dll
+C:\Users\Samuel\Projetos\DIO.Series\obj\Debug\netcoreapp2.1\DIO.Series.pdb
